@@ -21,14 +21,16 @@ I’ve tried the recommended spotify lists and let's just say that I’m not a 5
 
 So I've created Marmpy, an algorithm that produces playlists with songs I like, in the right order during my run, and songs that make me feel motivated. All of this based on my originally perfectly crafted playlist. 
 
-# Please check out the PDF attached. 
+# Please check out the links below: 
+
+
+A link to my presentation: 
+
+https://www.canva.com/design/DAFOVAVO678/yPSwJaAM2XjqGtQIrqEVmg/watch?utm_content=DAFOVAVO678&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
 Also here is a link to my trello if you wanna check out my process and my progress: 
 
-### https://trello.com/b/Yj9t3oZQ/marmpy
+https://trello.com/b/Yj9t3oZQ/marmpy
 
-A link to my presentation: 
-
-### https://www.canva.com/design/DAFOVAVO678/yPSwJaAM2XjqGtQIrqEVmg/watch?utm_content=DAFOVAVO678&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
