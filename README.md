@@ -1,5 +1,9 @@
 # MARMPY
 
+<p align="center"> 
+<img src="[https://kamisetas.com/image/bordados/Cobi-Barcelona-92-parche.gif](https://www.canva.com/design/DAFO9wjCV78/watch)" alt="drawing" width="200"/>
+</p>
+
 Hello Reader, 
 
 My name is Enrique and I’m gonna run a marathon. 
